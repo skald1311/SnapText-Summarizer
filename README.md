@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/skald1311/SnapText-Summarizer">
-    <img src="https://github.com/skald1311/SnapText-Summarizer/assets/84189062/42325223-29df-48df-89d2-5a788b973e49" alt="Logo" width="100" height="100">
+    <img src="https://github.com/skald1311/SnapText-Summarizer/assets/84189062/648d883e-4bdc-4e86-9509-d45a2b26d318" alt="Logo" width="100" height="100">
   </a>
 
 
