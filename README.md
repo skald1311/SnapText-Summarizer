@@ -108,13 +108,13 @@ To get a local copy up and running follow these simple example steps.
 
 4. Install Tesseract manually
   
-  Latest installer for window: https://github.com/UB-Mannheim/tesseract/wiki
+    Latest installer for window: https://github.com/UB-Mannheim/tesseract/wiki
    
-  For other OS: https://tesseract-ocr.github.io/tessdoc/Installation.html
+    For other OS: https://tesseract-ocr.github.io/tessdoc/Installation.html
    
-  Search Edit the system environment variables -> Environment Variables -> PATH -> NEW -> add the path to tesseract-ocr (usually C:\Program Files\Tesseract-OCR) -> OK
+    Search Edit the system environment variables -> Environment Variables -> PATH -> NEW -> add the path to tesseract-ocr (usually C:\Program Files\Tesseract-OCR) -> OK
    
-  In Environment Variables -> New ->  Variable name: TESSDATA_PREFIX    |    Variable value: C:\Program Files\Tesseract-OCR\tessdata -> OK
+    In Environment Variables -> New ->  Variable name: TESSDATA_PREFIX    |    Variable value: C:\Program Files\Tesseract-OCR\tessdata -> OK
 
 6. Open cmd -> change directory to "src" folder -> Create a virtual environment (below is for Windows)
    ```sh
