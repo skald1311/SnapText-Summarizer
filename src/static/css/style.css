@@ -1,0 +1,29 @@
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Manrope", sans-serif;
+  }
+
+  body {
+    line-height: 1.6;
+    overscroll-behavior-y: none;
+    padding: 2.5rem;
+    display: flex;
+    overflow: hidden;
+  }
+
+  .footer {
+    color: #ffffff;
+    position: fixed;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+  }
+  
+  .resize {
+    width: 35px;
+    height: auto;
+    padding: 2.5px;
+  }
