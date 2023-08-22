@@ -72,7 +72,7 @@
 
 ### Built With
 
-* [![Javascript][Javascript]][Javascript-url]
+* [![Python][Python]][Python-url]
 * [![HTML5][HTML5]][HTML5-url]
 * [![CSS][CSS]][CSS-url]
 
@@ -119,10 +119,8 @@ Project Link: [https://github.com/skald1311/SnapText-Summarizer](https://github.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hmd1311/
-[Javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[Javascript-url]: https://www.javascript.com/
-[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-[Node-url]: https://nodejs.org/en/
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org
 [HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
