@@ -114,9 +114,7 @@ To get a local copy up and running follow these simple example steps.
    
   Search Edit the system environment variables -> Environment Variables -> PATH -> NEW -> add the path to tesseract-ocr (usually C:\Program Files\Tesseract-OCR) -> OK
    
-  In Environment Variables -> New -> * Variable name: TESSDATA_PREFIX
-   
-   * Variable value: C:\Program Files\Tesseract-OCR\tessdata -> OK
+  In Environment Variables -> New ->  Variable name: TESSDATA_PREFIX    |    Variable value: C:\Program Files\Tesseract-OCR\tessdata -> OK
 
 6. Open cmd -> change directory to "src" folder -> Create a virtual environment (below is for Windows)
    ```sh
