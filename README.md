@@ -14,8 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/skald1311/SnapText-Summarizer">
-    <img src="https://github.com/skald1311/SnapText-Summarizer/assets/84189062/648d883e-4bdc-4e86-9509-d45a2b26d318" alt="Logo" width="100" height="100">
+  <a href="https://github.com/skald1311/Summerize-Snap">
+    <img src="https://github.com/skald1311/Summerize-Snap/assets/84189062/648d883e-4bdc-4e86-9509-d45a2b26d318" alt="Logo" width="100" height="100">
   </a>
 
 
@@ -28,9 +28,9 @@
     <a href="https://skald1311.github.io/music-visualizer/"><strong>LIVE DEMO</strong></a>
     <br />
     <br />
-    <a href="https://github.com/skald1311/SnapText-Summarizer/issues">Report Bug</a>
+    <a href="https://github.com/skald1311/Summerize-Snap/issues">Report Bug</a>
     ·
-    <a href="https://github.com/skald1311/SnapText-Summarizer/issues">Request Feature</a>
+    <a href="https://github.com/skald1311/Summerize-Snap/issues">Request Feature</a>
   </p>
 </div>
 
@@ -158,7 +158,7 @@ Don't forget to give the project a star! Thanks again!
 
 Duong Hoang - [LinkedIn](https://www.linkedin.com/in/hmd1311/)
 
-Project Link: [https://github.com/skald1311/SnapText-Summarizer](https://github.com/skald1311/SnapText-Summarizer)
+Project Link: [https://github.com/skald1311/Summerize-Snap](https://github.com/skald1311/Summerize-Snap)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
