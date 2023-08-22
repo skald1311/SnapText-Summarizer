@@ -20,7 +20,7 @@
 
 
 
-<h3 align="center">Music Visualizer</h3>
+<h3 align="center">SnapText Summarizer</h3>
 
   <p align="center">
     An audio visualizer app made with p5js
