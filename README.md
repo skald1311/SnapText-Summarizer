@@ -20,7 +20,7 @@
 
 
 
-<h3 align="center">SnapText Summarizer</h3>
+<h3 align="center">Summarize Snap</h3>
 
   <p align="center">
     with pegasus
