@@ -73,6 +73,7 @@
 ### Built With
 
 * [![Python][Python]][Python-url]
+* [![Pytorch][Pytorch]][Pytorch-url]
 * [![HTML5][HTML5]][HTML5-url]
 * [![CSS][CSS]][CSS-url]
 
@@ -126,4 +127,5 @@ Project Link: [https://github.com/skald1311/SnapText-Summarizer](https://github.
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://en.wikipedia.org/wiki/CSS
 [logo]: https://github.com/skald1311/Music-Visualizer/assets/84189062/97092b3b-4f77-4a86-8c4e-fdfa5b2fafe1
-
+[Pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+[Pytorch-url]: https://pytorch.org
