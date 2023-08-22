@@ -91,9 +91,44 @@
 
 To get a local copy up and running follow these simple example steps.
 
+1. Click the green button
 
+  ![image](https://user-images.githubusercontent.com/84189062/210023644-49f6ee47-b8aa-479d-b192-c9985ef913cd.png)
+   
+   
+2. Download ZIP
 
+   ![image](https://user-images.githubusercontent.com/84189062/210023664-4d06ef4a-71a7-444d-9778-bf21c8ed30ae.png)
+  
+  
+3. Extract the file
+   ```sh
+   Make sure all of the files are in the same folder!!!
+   ```
 
+4. Install Tesseract manually
+  
+      Latest installer for window: https://github.com/UB-Mannheim/tesseract/wiki
+      For other OS: https://tesseract-ocr.github.io/tessdoc/Installation.html
+      Search Edit the system environment variables -> Environment Variables -> PATH -> NEW -> add the path to tesseract-ocr (usually C:\Program Files\Tesseract-OCR) -> OK
+      In Environment Variables -> New -> Variable name: TESSDATA_PREFIX
+                                         Variable value: C:\Program Files\Tesseract-OCR\tessdata -> OK
+
+5. Open cmd -> change directory to "src" folder -> Create a virtual environment (below is for Windows)
+   ```sh
+   py -3 -m venv .venv
+   .venv\Scripts\activate
+   ```
+
+6. Install all the dependencies
+  ```sh
+  pip install -r requirements.txt
+  ```
+
+7. Run the below command in terminal
+   ```sh
+   flask --app app run
+   ```
 
 <!-- CONTRIBUTING -->
 ## Contributing
