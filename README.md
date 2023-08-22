@@ -85,13 +85,13 @@
 
 
 <!-- GETTING STARTED -->
-## Live Demo
+## Installation
 
 **LIVE DEMO AVAILABLE [HERE](https://skald1311.github.io/music-visualizer/)**
 
 To get a local copy up and running follow these simple example steps.
 
-### Installation
+
 
 
 
