@@ -126,7 +126,10 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   pip install -r requirements.txt
   ```
-
+  if this doesn't work, try this instead:
+  ```sh
+  pip install transformer torch sentencepiece pytesseract flask flask reuploaded flask wtf
+  ```
 7. Run the below command in terminal
    ```sh
    flask --app app run
