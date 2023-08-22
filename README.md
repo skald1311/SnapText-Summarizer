@@ -23,7 +23,7 @@
 <h3 align="center">SnapText Summarizer</h3>
 
   <p align="center">
-    An audio visualizer app made with p5js
+    with pegasus
     <br />
     <a href="https://skald1311.github.io/music-visualizer/"><strong>LIVE DEMO</strong></a>
     <br />
