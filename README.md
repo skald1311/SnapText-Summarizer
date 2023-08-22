@@ -23,7 +23,7 @@
 <h3 align="center">Summarize Snap</h3>
 
   <p align="center">
-    with pegasus
+    Transform images with text into a concise summary using Tesseract OCR and Google's Pegasus model
     <br />
     <a href="https://skald1311.github.io/music-visualizer/"><strong>LIVE DEMO</strong></a>
     <br />
