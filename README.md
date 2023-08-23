@@ -175,7 +175,7 @@ Don't forget to give the project a star! Thanks again!
 
 Duong Hoang - [LinkedIn](https://www.linkedin.com/in/hmd1311/)
 
-Project Link: [https://github.com/skald1311/Summerize-Snap](https://github.com/skald1311/Summerize-Snap)
+Project Link: [github.com/skald1311/Summerize-Snap](https://github.com/skald1311/Summerize-Snap)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
