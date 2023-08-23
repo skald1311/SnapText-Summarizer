@@ -25,7 +25,6 @@
   <p align="center">
     Transform images with text into a concise summary using Tesseract OCR and Google's Pegasus model
     <br />
-    <br />
     <a href="https://github.com/skald1311/Summerize-Snap/issues">Report Bug</a>
     ·
     <a href="https://github.com/skald1311/Summerize-Snap/issues">Request Feature</a>
