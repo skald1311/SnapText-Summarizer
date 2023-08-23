@@ -25,8 +25,6 @@
   <p align="center">
     Transform images with text into a concise summary using Tesseract OCR and Google's Pegasus model
     <br />
-    <a href="https://skald1311.github.io/music-visualizer/"><strong>LIVE DEMO</strong></a>
-    <br />
     <br />
     <a href="https://github.com/skald1311/Summerize-Snap/issues">Report Bug</a>
     ·
@@ -63,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Summarize Snap is a cutting-edge project that seamlessly bridges the gap between visual content and concise textual summaries. This innovative solution is designed to streamline the process of extracting meaningful insights from images containing textual information. Whether it's a snapshot of a magazine article, a wiki page, or any other image containing text, Summarize Snap empowers users to swiftly and accurately obtain mostly extractive summaries.
+Summarize Snap is a cutting-edge project that seamlessly bridges the gap between visual content and concise textual summaries. This innovative solution is designed to streamline the process of extracting meaningful insights from images containing textual information. Whether it's a snapshot of a magazine article, a wiki page, or any other image containing text, Summarize Snap empowers users to swiftly and accurately obtain summaries.
 
 ![ssd2](https://github.com/skald1311/Summerize-Snap/assets/84189062/15fff7d0-48e8-4632-9e50-63001967f2fd)
 
@@ -103,7 +101,9 @@ Unlock the potential of images as a source of succinct knowledge with Summarize 
 <!-- GETTING STARTED -->
 ## Installation
 
-**LIVE DEMO AVAILABLE [HERE](https://skald1311.github.io/music-visualizer/)**
+**LIVE DEMO ISN'T AVAILABLE BECAUSE UNFORTUNATELY I COULDN'T GET TESSERACT TO BE INSTALLED PROPERLY ON RENDER.COM. IT DOESN'T WORK BUT THE LINK IS HERE REGARDLESS: [NOT WORKING](https://summarize-snap.onrender.com)**
+
+**LOCAL VERSION WORKS FINE, BELOW IS THE INSTRUCTIONS**
 
 To get a local copy up and running follow these simple example steps.
 
@@ -174,7 +174,7 @@ Don't forget to give the project a star! Thanks again!
 
 Duong Hoang - [LinkedIn](https://www.linkedin.com/in/hmd1311/)
 
-Project Link: [https://github.com/skald1311/Summerize-Snap](https://github.com/skald1311/Summerize-Snap)
+Project Link: [github.com/skald1311/Summerize-Snap](https://github.com/skald1311/Summerize-Snap)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
