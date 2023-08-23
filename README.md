@@ -65,6 +65,9 @@
 
 Summarize Snap is a cutting-edge project that seamlessly bridges the gap between visual content and concise textual summaries. This innovative solution is designed to streamline the process of extracting meaningful insights from images containing textual information. Whether it's a snapshot of a magazine article, a wiki page, or any other image containing text, Summarize Snap empowers users to swiftly and accurately obtain mostly extractive summaries.
 
+![ssd2](https://github.com/skald1311/Summerize-Snap/assets/84189062/15fff7d0-48e8-4632-9e50-63001967f2fd)
+
+
 Key Features:
 
 1. Image-to-Text Conversion: Leveraging the power of Tesseract OCR (Optical Character Recognition), Summarize Snap efficiently converts images containing text into editable textual data. This foundational step ensures that the textual content is accurately extracted from the image, setting the stage for robust summarization.
