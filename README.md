@@ -14,23 +14,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/skald1311/SnapText-Summarizer">
-    <img src="https://github.com/skald1311/SnapText-Summarizer/assets/84189062/648d883e-4bdc-4e86-9509-d45a2b26d318" alt="Logo" width="100" height="100">
+  <a href="https://github.com/skald1311/Summerize-Snap">
+    <img src="https://github.com/skald1311/Summerize-Snap/assets/84189062/648d883e-4bdc-4e86-9509-d45a2b26d318" alt="Logo" width="100" height="100">
   </a>
 
 
 
-<h3 align="center">SnapText Summarizer</h3>
+<h3 align="center">Summarize Snap</h3>
 
   <p align="center">
-    with pegasus
+    Transform images with text into a concise summary using Tesseract OCR and Google's Pegasus model
     <br />
     <a href="https://skald1311.github.io/music-visualizer/"><strong>LIVE DEMO</strong></a>
     <br />
     <br />
-    <a href="https://github.com/skald1311/SnapText-Summarizer/issues">Report Bug</a>
+    <a href="https://github.com/skald1311/Summerize-Snap/issues">Report Bug</a>
     ·
-    <a href="https://github.com/skald1311/SnapText-Summarizer/issues">Request Feature</a>
+    <a href="https://github.com/skald1311/Summerize-Snap/issues">Request Feature</a>
   </p>
 </div>
 
@@ -63,9 +63,22 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Summarize Snap is a cutting-edge project that seamlessly bridges the gap between visual content and concise textual summaries. This innovative solution is designed to streamline the process of extracting meaningful insights from images containing textual information. Whether it's a snapshot of a magazine article, a wiki page, or any other image containing text, Summarize Snap empowers users to swiftly and accurately obtain mostly extractive summaries.
+
+Key Features:
+
+1. Image-to-Text Conversion: Leveraging the power of Tesseract OCR (Optical Character Recognition), Summarize Snap efficiently converts images containing text into editable textual data. This foundational step ensures that the textual content is accurately extracted from the image, setting the stage for robust summarization.
+
+2. Advanced Text Summarization: With the integration of Google's Pegasus model, Summarize Snap takes text summarization to the next level. This state-of-the-art model, trained on massive amounts of data, excels at capturing the essence of lengthy passages and distilling them into concise and coherent summaries. The model I used was specifically trained on the cnn_dailymail dataset.
+
+3. User-Friendly Interface: Summarize Snap boasts an intuitive and user-friendly interface, making it accessible to both tech-savvy users and newcomers. Simply upload an image with text, and the tool takes care of the rest, ensuring a seamless user experience from start to finish.
+
+4. Versatility and Application: From students seeking to grasp the main ideas of dense academic texts to professionals needing quick insights from business documents, Summarize Snap finds application across various domains and sectors.
 
 
+Experience the future of text summarization with Summarize Snap. Whether you're a researcher, a student, a professional, or simply someone looking to extract valuable information from images, this project offers a revolutionary solution at your fingertips. Embrace the synergy of Tesseract OCR and Google's Pegasus model for an unparalleled summarization experience.
 
+Unlock the potential of images as a source of succinct knowledge with Summarize Snap today. Transform visual content into actionable insights effortlessly and elevate your information processing game.
 
 
 
@@ -158,7 +171,7 @@ Don't forget to give the project a star! Thanks again!
 
 Duong Hoang - [LinkedIn](https://www.linkedin.com/in/hmd1311/)
 
-Project Link: [https://github.com/skald1311/SnapText-Summarizer](https://github.com/skald1311/SnapText-Summarizer)
+Project Link: [https://github.com/skald1311/Summerize-Snap](https://github.com/skald1311/Summerize-Snap)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
