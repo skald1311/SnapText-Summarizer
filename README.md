@@ -105,7 +105,8 @@ Unlock the potential of images as a source of succinct knowledge with Summarize 
 
 **LIVE DEMO ISN'T AVAILABLE BECAUSE UNFORTUNATELY I COULDN'T GET TESSERACT TO BE INSTALLED PROPERLY ON RENDER.COM. IT DOESN'T WORK BUT THE LINK IS HERE REGARDLESS: [NOT WORKING](https://summarize-snap.onrender.com)**
 
-**LOCAL VERSION WORKS FINE, BELOW IS THE INSTRUCTIONS **
+**LOCAL VERSION WORKS FINE, BELOW IS THE INSTRUCTIONS**
+
 To get a local copy up and running follow these simple example steps.
 
 1. Click the green button
