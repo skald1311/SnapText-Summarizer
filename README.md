@@ -25,7 +25,7 @@
   <p align="center">
     Transform images with text into a concise summary using Tesseract OCR and Google's Pegasus model
     <br />
-    <a href="https://skald1311.github.io/music-visualizer/"><strong>LIVE DEMO</strong></a>
+    <a href="https://summarize-snap.onrender.com"><strong>LIVE DEMO (CURRENTLY NOT WORKING. SEE BELOW FOR MORE DETAILS)</strong></a>
     <br />
     <br />
     <a href="https://github.com/skald1311/Summerize-Snap/issues">Report Bug</a>
@@ -103,7 +103,7 @@ Unlock the potential of images as a source of succinct knowledge with Summarize 
 <!-- GETTING STARTED -->
 ## Installation
 
-**LIVE DEMO AVAILABLE [HERE](https://skald1311.github.io/music-visualizer/)**
+**LIVE DEMO ISN'T AVAILABLE BECAUSE I COULDN'T GET TESSERACT TO BE INSTALLED PROPERLY ON RENDER.COM. IT DOESN'T WORK BUT THE LINK IS HERE REGARDLESS: [NOT WORKING](https://summarize-snap.onrender.com)**
 
 To get a local copy up and running follow these simple example steps.
 
